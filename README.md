@@ -4,7 +4,7 @@ In this project, we are going to use Kaggle’s [MasterCard Stock Data](https://
 
 ---
 
-Read the [blog](https://www.datacamp.com/community/tutorials/#$###tutorial-for-recurrent-neural-network) to learn more about the project.
+Read the [blog](https://www.datacamp.com/community/tutorials/tutorial-for-recurrent-neural-network) to learn more about the project.
 
 Acces project on [DataCamp Workspace](https://app.datacamp.com/workspace/w/94a70e98-585a-4dc4-b307-8a6627800ae2). 
 
